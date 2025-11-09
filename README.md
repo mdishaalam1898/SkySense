@@ -39,3 +39,6 @@ API: OpenWeatherMap API
 Version Control: Git & GitHub
 
 
+## Author
+
+👤 <b> Md Isha Alam<b/>
