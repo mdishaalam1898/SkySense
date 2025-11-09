@@ -1,0 +1,38 @@
+.app {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  padding: 30px;
+  background: linear-gradient(135deg, #a1c4fd, #c2e9fb);
+  min-height: 100vh;
+}
+
+.search input {
+  padding: 10px;
+  width: 200px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.search button {
+  padding: 10px 15px;
+  border: none;
+  background: #0066ff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.weather-card {
+  margin-top: 30px;
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  display: inline-block;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
