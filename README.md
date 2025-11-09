@@ -10,7 +10,7 @@ Built using React.js and the OpenWeatherMap API, it delivers temperature, humidi
 
 | Homepage | Weather Result |
 |-----------|----------------|
-| ![Home Screenshot](./screenshots/skysense1.png) | ![Weather Screenshot](./screenshots/skysense2.png) |
+| ![Home Screenshot](./screenshots/skysense2.png) | ![Weather Screenshot](./screenshots/skysense1.png) |
 
 
 🚀 Live Demo
